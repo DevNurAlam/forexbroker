@@ -1,0 +1,152 @@
+body{
+    font-family: 'Montserrat', Sans-serif;
+}
+.main_header{
+    background-color: #17272B;
+}
+.header{
+    padding: 20px 0px;
+}
+.logo h1{
+    font-size: 34px;
+}
+.logo a{
+    text-decoration: none;
+}
+.menu{
+    float: right;
+    color: #9D998C;
+}
+span{
+    color: #FFBE3E;
+}
+ h1{
+    font-size: 76px;
+    font-weight: 700;
+    font-family: 'Montserrat', Sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+}
+h2{ margin-top: 30px;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.hero{
+    background-image: url(../images/entrepreneur-3245868_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.hero_text{
+    padding: 60px 0px;
+}
+.hero_form{
+    padding: 25px;
+}
+.hero_form h1{
+    padding: 40px 0px;
+    font-size: 28px;
+    color: #000;
+}
+.hero_form p{
+    padding: 20px 0px;
+}
+.data{
+    padding: 10px auto;
+}
+button, input {
+    overflow: visible;
+    margin-bottom: 20px;
+    padding: 8px 20px;
+    text-align: center;
+    border: 1px solid #fff !important;
+    border-radius: 7px;
+}
+.btn-info{
+    padding: 10px 65px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #000;
+    text-transform: uppercase;
+}
+/*Hero End*/
+.abt_row{
+    margin: 100px 0px;
+}
+.abt_h2{
+    text-transform: uppercase;
+}
+.about_h{
+    font-size: 44px;
+    color: #000;
+}
+.about_b{
+    cursor: pointer;
+    border: 1px solid #000;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 1px solid #000!important;
+}
+/*About End*/
+.more{
+    background-color: #19272B;
+}
+.more_h{
+    font-size: 34px;
+    color: #FCD743;
+    text-transform: uppercase;
+}
+.more_h2{
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.more_p{
+    padding: 10px 0px;
+    color: #fff;
+}
+.link{
+    color: #FFC942;
+    text-transform: uppercase;
+}
+.link:hover{
+    color: #fff;
+    text-decoration: none;
+}
+/* More End */
+.b_img{
+    width: 100%;
+}
+/* Blog End */
+
+.testimonial{
+    background-color: #19272B;
+}
+.tt_p{
+    padding: 50px 50px;
+    color: #fff;
+}
+.tt_h4{
+    color: #FED55C;
+}
+.row_1{
+    padding: 30px 40px;
+}
+.info_h{
+    font-size: 20px;
+    color: #000;
+    text-transform: uppercase;
+}
+.clr{
+    background-color: #17272B;
+}
+.ftr{
+    color: #fff;
+}
